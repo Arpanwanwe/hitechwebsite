@@ -1,0 +1,1 @@
+Put replacement photos here, named as in IMAGE-SLOTS.md, then register them in index.html (search: var IMAGES).
